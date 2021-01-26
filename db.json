@@ -5,6 +5,7 @@
     "titleQuizDaGalera": "Quiz da Galera",
     "descriptionQuizDaGalera": "Dá uma olhada nesses quizes incríveis que o pessoal da imersão React Next Js fez:",
     "projectUrl": "https://github.com/marcoaucrosa",
+    "vercelUrl": "https://aluraquiz-umber.vercel.app", 
     "questions": [{
             "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
             "title": "Como fazer um seletor por id via CSS?",
