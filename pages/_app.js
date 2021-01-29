@@ -31,37 +31,10 @@ const GlobalStyle = createGlobalStyle`
     display: flex;
     flex-direction: column;
   }
-  form input {
-    margin-bottom: 24px;
-    background-color: transparent;
-    border: 1px solid #333;
-    height: 40px;
-    border-radius: 4px;
-    color: #FFFFFF;
-    padding: 0 15px;
-  }
-  form input:focus {
-    outline: none;
-    border: 1px solid #8B0000;
-  }
-  form button {
-    height: 40px;
-    border-radius: 4px;
-    color: #FFFFFF;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    background-color: #8B0000;
-    border: 1px solid #8B0000;
-    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.12), 0px 2px 2px rgba(0, 0, 0, 0.24);
-    font-weight: bold;
-    letter-spacing: 1.25px;
-  }
-  form button:focus {
-    outline: none;
-  }
-  form button:disabled {
-    background-color: #8b0000b5;
-    border-color: #8b0000b5;
+
+  img {
+    max-width: 100%;
+    height: auto;
   }
 `;
 

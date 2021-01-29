@@ -7,10 +7,10 @@
     "projectUrl": "https://github.com/marcoaucrosa",
     "vercelUrl": "https://aluraquiz-umber.vercel.app", 
     "questions": [{
-            "image": "/img/background.jpg",
+            "image": "/img/p1.jpg",
             "title": "Qual a cor do sabre de luz de Darth Vader?",
             "description": "Essa é pra aquecer",
-            "answer": 2,
+            "answer": 3,
             "alternatives": [
                 "Preto",
                 "Azul",
@@ -19,10 +19,10 @@
             ]
         },
         {
-            "image": "/img/background.jpg",
+            "image": "/img/p1.jpg",
             "title": "Qual o nome verdadeiro de Darth Vader?",
             "description": "Faz tempo em haha",
-            "answer": 0,
+            "answer": 2,
             "alternatives": [
                 "Obi Wan",
                 "Windu",
